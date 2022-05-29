@@ -1,7 +1,7 @@
 - 👋 Hello I'm Aryan Dusi
 - 👑 I’m interested in Machine Learning, Video Game development, Artificial Intelligence C++
 - 🖋️ Third Year Computer Science Student at Swansea University
-- 🧐 Learning Web Development and Developing Small Scale video games
+- 🧐 Learning Web Development and Developing Small Scale video games (at the moment)
 - 📟 Contact me: https://www.linkedin.com/in/aryan-dusi-72723214b/
 
 <!---
