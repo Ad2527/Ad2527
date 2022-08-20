@@ -1,6 +1,6 @@
 - 👋 Hello I'm Aryan Dusi
 - 🖋️ Third Year Computer Science Student at Swansea University
-- 👑 I’m interested in Machine Learning,Mobile App Dev,Video Game Dev, Artificial Intelligence and C++
+- 👑 I’m interested in Machine Learning, Mobile App Dev, Video Game Dev, Artificial Intelligence and C++
 - 🧐 Learning Web Development and Developing Small Scale video games (at the moment)
 - 📟 Contact me: https://www.linkedin.com/in/aryan-dusi-72723214b/     adk275@gmail.com
 
